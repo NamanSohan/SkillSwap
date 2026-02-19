@@ -3,7 +3,7 @@
 SkillSwap is a skill exchange platform where users can teach and learn skills without using money.
 
 ## Project Documentation
-[View SkillSwap Project PDF](./SkillSwap-Exchange-Skills-Not-Money.pdf)
+[View SkillSwap Project PDF](https://github.com/NamanSohan/SkillSwap/blob/main/SkillSwap-Exchange-Skills-Not-Money.pdf)
 
 ## Features
 - User registration and login
